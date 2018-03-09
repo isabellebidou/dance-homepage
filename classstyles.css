@@ -1,0 +1,32 @@
+a:hover{
+	COLOR: #FFFFFF;
+}
+#map{
+	
+	width:80%;
+	height:80%;
+	
+	margin-right:8%;
+	margin-left: 8%;
+	padding:2%;
+}
+#calendar{
+	padding:10%;
+	width: 80%;
+	margin:auto;
+}
+.fb-share-button{
+	position: fixed;
+	bottom:0%;
+	margin:auto;
+	
+}
+
+@media screen and (max-width: 800px) {
+	#calendar{
+	padding:0%;
+	width: 100%;
+	margin:auto;
+}
+	
+}
