@@ -196,6 +196,9 @@ p {
 	text-align: justify;
 	text-justify: inter-word;
 }
+.last {
+margin-right: 0px;
+}
 .photo {
 	width: 20%;
 	padding: 1em;
